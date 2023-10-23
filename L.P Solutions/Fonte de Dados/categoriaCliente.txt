@@ -1,0 +1,4 @@
+TIPO      RANGE_MIN  RANGE_MAX
+DIAMANTE    150       9999
+OURO        100       149
+PRATA      60          99
